@@ -6,9 +6,13 @@ Built using React.js for the frontend and Node.js with Socket.IO for real-time c
 Key features include:
 
 •	Real-time collaborative editing
+
 •	Secure login and session management
+
 •	Instant code execution results
+
 •	Role-based user interactions (owner, developer, collaborator)
+
 Future enhancements aim to support file upload/download, mobile responsiveness, and role-based access control for more advanced collaboration.
 In conclusion, CodeCollab offers an innovative and user-friendly platform that transforms how developers and teams collaborate remotely, making it an ideal tool for today’s connected world.
 
